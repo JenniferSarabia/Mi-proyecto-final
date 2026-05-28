@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1098219728573",
+    "project_id": "bdcrudropa",
+    "storage_bucket": "bdcrudropa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098219728573:android:277f2fb5f6a862d97691d4",
+        "android_client_info": {
+          "package_name": "com.example.crudropa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAprwc8lCrTdxSDfWyYpsI9teo4bcU_RaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098219728573:android:87ae9b6771ff69cf7691d4",
+        "android_client_info": {
+          "package_name": "com.example.urbaflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAprwc8lCrTdxSDfWyYpsI9teo4bcU_RaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
